@@ -4,3 +4,8 @@
 Ecm Cdn：[https://cdn.ecmlk.com/](https://cdn.ecmlk.com/)
 
 基于 nginx 的高性能 jsdelivr 反向代理，个人项目使用的镜像站。
+
+# 路径
+/npm/  # npm路径
+/gh/   # github路径
+/wp/   # wordpress路径
