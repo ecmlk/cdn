@@ -1,5 +1,5 @@
 # Ecm-Tracker
-主页静态资源存储。
+主页静态资源存储、加速。
 
 Ecm-Tracker：[https://tracker.ecmlk.com/](https://tracker.ecmlk.com/)
 
