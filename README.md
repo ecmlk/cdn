@@ -7,5 +7,7 @@ Ecm Cdn：[https://cdn.ecmlk.com/](https://cdn.ecmlk.com/)
 
 # 路径
 /npm/  # npm路径
+
 /gh/   # github路径
+
 /wp/   # wordpress路径
